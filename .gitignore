@@ -14,3 +14,8 @@
 .cxx
 local.properties
 /Images
+/.idea/
+build/
+*.apk
+*.aab
+Thumbs.db
